@@ -3531,13 +3531,14 @@
 
 "@vector-im/matrix-wysiwyg-wasm@link:../../../.cache/yarn/v6/npm-@vector-im-matrix-wysiwyg-2.38.0-af862ffd231dc0a6b8d6f2cb3601e68456c0ff24-integrity/node_modules/bindings/wysiwyg-wasm":
   version "0.0.0"
+  uid ""
 
 "@vector-im/matrix-wysiwyg@2.38.0":
   version "2.38.0"
   resolved "https://registry.yarnpkg.com/@vector-im/matrix-wysiwyg/-/matrix-wysiwyg-2.38.0.tgz#af862ffd231dc0a6b8d6f2cb3601e68456c0ff24"
   integrity sha512-cMEVicFYVzFxuSyWON0aVGjAJMcgJZ+LxuLTEp8EGuu8cRacuh0RN5rapb11YVZygzFvE7X1cMedJ/fKd5vRLA==
   dependencies:
-    "@vector-im/matrix-wysiwyg-wasm" "link:../../../.cache/yarn/v6/npm-@vector-im-matrix-wysiwyg-2.38.0-af862ffd231dc0a6b8d6f2cb3601e68456c0ff24-integrity/node_modules/bindings/wysiwyg-wasm"
+    "@vector-im/matrix-wysiwyg-wasm" "link:../.cache/yarn/v6/npm-@vector-im-matrix-wysiwyg-2.38.0-af862ffd231dc0a6b8d6f2cb3601e68456c0ff24-integrity/node_modules/bindings/wysiwyg-wasm"
 
 "@webassemblyjs/ast@1.14.1", "@webassemblyjs/ast@^1.14.1":
   version "1.14.1"
@@ -8368,20 +8369,20 @@ linkify-it@^4.0.1:
   dependencies:
     uc.micro "^1.0.1"
 
-linkify-react@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/linkify-react/-/linkify-react-4.2.0.tgz#d143b2af8efa5e3b09517b66ed442624c3e06bcf"
-  integrity sha512-dIcDGo+n4FP2FPIHDcqB7cUE+omkcEgQJpc7sNNP4+XZ9FUhFAkKjGnHMzsZM+B4yF93sK166z9K5cKTe/JpzA==
+linkify-react@4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/linkify-react/-/linkify-react-4.3.2.tgz#8d47fb0ad96ab5b38c07bfbebdcbc57794430693"
+  integrity sha512-mi744h1hf+WDsr+paJgSBBgYNLMWNSHyM9V9LVUo03RidNGdw1VpI7Twnt+K3pEh3nIzB4xiiAgZxpd61ItKpQ==
 
 linkify-string@4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/linkify-string/-/linkify-string-4.2.0.tgz#e8c5a9d57698e81e7cce7f4915ddbcbde17134c0"
   integrity sha512-LqOKk0+RlqibFkxjPAGOL7Mfssqj6/SdG9QWGvzeVDpoWXhaw9OXxseCtFanjIl7C6UyTTZizhyGr4IWLfijiw==
 
-linkifyjs@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-4.2.0.tgz#9dd30222b9cbabec9c950e725ec00031c7fa3f08"
-  integrity sha512-pCj3PrQyATaoTYKHrgWRF3SJwsm61udVh+vuls/Rl6SptiDhgE7ziUIudAedRY9QEfynmM7/RmLEfPUyw1HPCw==
+linkifyjs@4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-4.3.2.tgz#d97eb45419aabf97ceb4b05a7adeb7b8c8ade2b1"
+  integrity sha512-NT1CJtq3hHIreOianA8aSXn6Cw0JzYOuDQbOrSPe7gqFnCpKP++MQe3ODgO3oh2GJFORkAAdqredOa60z63GbA==
 
 lint-staged@^15.0.2:
   version "15.2.10"
